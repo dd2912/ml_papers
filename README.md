@@ -2,15 +2,15 @@
 ## 1 Introduction to Deep Learning
 
 ### Text Book
-[1.0] Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
+1. Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
 
 ### High-level Survey
-[1.1] LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. **Deep learning**. Nature 521.7553 (2015): 436-444.[pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+2. LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. **Deep learning**. Nature 521.7553 (2015): 436-444.[pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 ️️️️️
 ### Courses
-[1.3] MIT 6.S191Introduction to Deep Learning [web](http://introtodeeplearning.com/)
+3. MIT 6.S191Introduction to Deep Learning [web](http://introtodeeplearning.com/)
 
-[1.4] Dive into Deep Learning [web](https://d2l.ai/index.html)
+4. Dive into Deep Learning [web](https://d2l.ai/index.html)
 
 
 ## 2 Convolutional Neural Networks (CNNs)
