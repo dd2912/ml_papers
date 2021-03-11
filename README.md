@@ -18,25 +18,15 @@
 ### LeNet: Image Classification on Handwritten Digits and Image Classification on ImageNet
 
 1. Y. LeCun, L. Bottou, Y. Bengio and P. Haffner. **Gradient-Based Learning Applied to Document Recognition.**  Proceedings of the IEEE, 86(11):2278-2324. 1998.[pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) (Seminal Paper: LeNet)  
-
 2. Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **Imagenet classification with deep convolutional neural networks**. Advances in neural information processing systems. 2012.[pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
-
 3. Simonyan, Karen, and Andrew Zisserman. **Very deep convolutional networks for large-scale image recognition**. arXiv preprint arXiv:1409.1556 (2014).[pdf](https://arxiv.org/pdf/1409.1556.pdf)
-
 4. Szegedy, Christian, et al. **Going deeper with convolutions**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
-
 5. He, Kaiming, et al. **Deep residual learning for image recognition**. arXiv preprint arXiv:1512.03385 (2015). [pdf](https://arxiv.org/pdf/1512.03385.pdf) [ResNet](https://arxiv.org/pdf/1512.03385.pdf) 
-
 6. Huang, G. et al. **Densely Connected Convolutional Networks**. arXiv preprint arXiv:1608.06993 (2017) [pdf](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet)
-
 7. Hu, Jie et al.  **Squeeze-and-Excitation Networks**. arXiv preprint arXiv:1709.01507 (2017) [pdf](https://arxiv.org/pdf/1709.01507.pdf)
-
 8. Howard, A. G. et al. **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.** [pdf](https://arxiv.org/abs/1704.04861)\]
-
 9. Tan, M. and Le, Q. V. **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**. [pdf](https://arxiv.org/abs/1905.11946)
-
 10. Xie, Q. et al. **Self-training with Noisy Student improves ImageNet classification.** [pdf](https://arxiv.org/pdf/1911.04252.pdf)
-
 11. Bojarski, M. et al. **End to End Learning for Self-Driving Cars.** [pdf](https://arxiv.org/pdf/1604.07316.pdf)
   
   
