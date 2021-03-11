@@ -9,6 +9,7 @@
 ️️️️️
 ### Courses
 [1.3] MIT 6.S191Introduction to Deep Learning [web](http://introtodeeplearning.com/)
+
 [1.4] Dive into Deep Learning [web](https://d2l.ai/index.html)
 
 
