@@ -1,10 +1,10 @@
 Reading List
 ------------
 
-**1 Introduction to Deep Learning**  
-  
-**Course "Text Book"**  
-**\[1.0\]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [\[](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)[pdf\]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)  
+## 1 Introduction to Deep Learning
+
+Text Book  
+\[1.0\] Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)  
   
 **High-level Survey  
 ​****\[1.1\]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [\[](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)[pdf\]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)  
