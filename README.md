@@ -76,11 +76,11 @@
 ## 5 Generative Adversarial Networks and Applications 
   
 **Generative Adversarial Networks:**  
-1. Kingma, D, and Welling, M. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**\[AD 2/26/20\]  
-2. Goodfellow, Ian, et al. "**Generative adversarial nets**."  2014. [\[](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[pdf\]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) \[AD 2/26/20\]  
-3. Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**." arXiv preprint arXiv:1601.06759 (2016). [\[](http://arxiv.org/pdf/1601.06759)[pdf\]](http://arxiv.org/pdf/1601.06759) **(****PixelRNN)** \[AD 2/26/20\]  
-4. Makzhani, Alireza, et al. "**Adversarial Autoencoders**" arXiv:1511.05644 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](https://arxiv.org/pdf/1511.05644) \[AD 2/26/20\]  
-5. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv:1502.04623 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf) \[AD 2/26/20\]  
+1. Kingma, D, and Welling, M. **Auto-encoding variational bayes**. arXiv preprint arXiv:1312.6114 (2013). [pdf](http://arxiv.org/pdf/1312.6114)
+2. Goodfellow, Ian, et al. "**Generative adversarial nets**."  2014. [pdf](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+3. Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**." arXiv preprint arXiv:1601.06759 (2016). [pdf](http://arxiv.org/pdf/1601.06759) 
+4. Makzhani, Alireza, et al. "**Adversarial Autoencoders**" arXiv:1511.05644 (2015). [pdf](https://arxiv.org/pdf/1511.05644) 
+5. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv:1502.04623 (2015). [pdf](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)
   
 **Applications:**  
 1. **Wasserstein GAN.**  2017. [pdf](https://arxiv.org/pdf/1701.07875.pdf) 
