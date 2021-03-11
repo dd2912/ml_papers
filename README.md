@@ -15,11 +15,10 @@
 
 ## 2 Convolutional Neural Networks (CNNs)
   
-### LeNet: Image Classification on Handwritten Digits
+### LeNet: Image Classification on Handwritten Digits and Image Classification on ImageNet
 
 1. Y. LeCun, L. Bottou, Y. Bengio and P. Haffner. **Gradient-Based Learning Applied to Document Recognition.**  Proceedings of the IEEE, 86(11):2278-2324. 1998.[pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) (Seminal Paper: LeNet)  
-  
-### Image Classification on ImageNet
+
 2. Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **Imagenet classification with deep convolutional neural networks**. Advances in neural information processing systems. 2012.[pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
 
 3. Simonyan, Karen, and Andrew Zisserman. **Very deep convolutional networks for large-scale image recognition**. arXiv preprint arXiv:1409.1556 (2014).[pdf](https://arxiv.org/pdf/1409.1556.pdf)
