@@ -1,16 +1,14 @@
-Reading List
-------------
 
 ## 1 Introduction to Deep Learning
 
-Text Book  
+### Text Book  
 \[1.0\] Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)  
   
-**High-level Survey  
-​****\[1.1\]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [\[](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)[pdf\]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)  
+### High-level Survey  
+[1.1\] LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444.[pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)  
 ️️️️️  
   
-**2 Convolutional Neural Networks (CNNs)**  
+## 2 Convolutional Neural Networks (CNNs)
   
 **LeNet: Image Classification on Handwritten Digits  
 \[2.0\]** Y. LeCun, L. Bottou, Y. Bengio and P. Haffner.  "**Gradient-Based Learning Applied to Document Recognition."**  Proceedings of the IEEE, 86(11):2278-2324. _**1998.**_️[\[pdf\]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) (Seminal Paper: LeNet)  
@@ -28,7 +26,7 @@ Text Book
 **\[2.10\]** Bojarski, M. et al. **"****End to End Learning for Self-Driving Cars.**" \[[pdf](https://arxiv.org/pdf/1604.07316.pdf)\] \[Dhruv 2/5/20\]  
   
   
-**3** **Object Detection**  
+## 3 Object Detection
   
 **\[3.0\]** H. A. Rowley, S. Baluja, and T. Kanade, “**Neural network-based face detection,**” Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognition, pp. 203–208, 1996. \[[pdf](https://courses.cs.washington.edu/courses/cse577/05sp/papers/rowley.pdf)\] \[AC 2/12/20\]  
 **\[3.1\]** P. Viola and M. Jones, “**Rapid object detection using a boosted cascade of simple features,**” in Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition.  \[[pdf](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)\] \[AC 2/12/20\]  
@@ -50,7 +48,7 @@ Text Book
 **\[3.17\]** Mingxing Tan, Ruoming Pang: “**EfficientDet: Scalable and Efficient Object Detection**”, 2019; arXiv:1911.09070 \[[pdf](https://arxiv.org/pdf/1911.09070.pdf) \] \[AL 2/12/20\]  
   
   
-**4 Object Segmentation and Self-Supervised Learning**  
+## 4 Object Segmentation and Self-Supervised Learning  
   
 **Segmentation:**  
 **\[4a.0\]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [\[](https://arxiv.org/pdf/1411.4038v2.pdf)[pdf\]](https://arxiv.org/pdf/1411.4038v2.pdf)️️️️️ \[MG 2/19/20\]  
@@ -73,7 +71,7 @@ Text Book
 **\[4b.7\]** “**SimCLR: A Simple Framework for Contrastive Learning of Representations.**” 2020. \[[pdf](https://arxiv.org/pdf/2002.05709.pdf)\] \[BVH 2/19/20\]  
   
   
-**5 Generative Adversarial Networks and Applications**  
+## 5 Generative Adversarial Networks and Applications 
   
 **Generative Adversarial Networks:**  
 **\[5a.0\]** Kingma, D, and Welling, M. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**\[AD 2/26/20\]  
@@ -114,7 +112,7 @@ Text Book
 **\[5.6\]** Ulyanov, Dmitry and Lebedev, Vadim, et al. "**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**." arXiv preprint arXiv:1603.03417(2016). [\[](http://arxiv.org/abs/1603.03417)[pdf\]](http://arxiv.org/abs/1603.03417) **(Texture generation and style transfer)** ️️️️  
   
   
-**6 RNN / Sequence-to-Sequence Model**  
+## 6 RNN / Sequence-to-Sequence Model  
   
 **\[6.0\]** Bengio, Yoshua et. al. "**A Neural Probabilistic Model**" JMLR (2003). [\[](http://arxiv.org/pdf/1308.0850)[pdf\]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) \[KB 3/25/20\]  
 **\[6.1\]** Graves, Alex. "**Generating sequences with recurrent neural networks**." arXiv preprint arXiv:1308.0850 (2013). [\[](http://arxiv.org/pdf/1308.0850)[pdf\]](http://arxiv.org/pdf/1308.0850)**(LSTM, very nice generating result, show the power of RNN)** \[KB 3/25/20\]  
@@ -123,7 +121,7 @@ Text Book
 **\[6.4\]** Bahdanau, Dzmitry, KyungHyun Cho, and Yoshua Bengio. "**Neural Machine Translation by Jointly Learning to Align and Translate**." arXiv preprint arXiv:1409.0473 (2014). [\[](https://arxiv.org/pdf/1409.0473v7.pdf)[pdf\]](https://arxiv.org/pdf/1409.0473v7.pdf) \[KB 3/25/20\]  
   
   
-**7 NLP (Natural Language Processing)**  
+## 7 NLP (Natural Language Processing)
   
 **\[7.0\]** Ashish Vaswani, et al. "**Attention is All you Need**." NIPS (2017) [\[](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf)[pdf\]](https://arxiv.org/pdf/1706.03762.pdf) \[KX 3/25/20\]  
 **\[7.1\]** Matthew Peters, et al. "**“Deep Contexualized Word Representations**." NAACL-HLT(2018) [\[](https://arxiv.org/abs/1506.07285)[pdf\]](https://arxiv.org/pdf/1802.05365.pdf) **(ELMo)** \[KX 3/25/20\]  
@@ -132,7 +130,7 @@ Text Book
 **\[7.4\]** Victor Sanh, et al. "**DistilBERT, a distilled version of BERT**." arXiv preprint arXiv:1910.01108(2019) [\[](https://arxiv.org/abs/1506.03340)[pdf\]](https://arxiv.org/pdf/1910.01108.pdf) \[KX 3/25/20\]  
   
   
-**8 Machine Translation**  
+## 8 Machine Translation
   
 **\[8.0\]** Lee, et al. "**Fully Character-Level Neural Machine Translation without Explicit Segmentation**". In arXiv preprint arXiv:1610.03017 (2016) [\[](https://arxiv.org/pdf/1610.03017.pdf)[pdf\]](https://arxiv.org/pdf/1610.03017.pdf) \[SM 4/1/20\]  
 **\[8.1\]** Wu, Schuster, Chen, Le, et al. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". In arXiv preprint arXiv:1609.08144v2 (2016) [\[](https://arxiv.org/pdf/1609.08144v2.pdf)[pdf\]](https://arxiv.org/pdf/1609.08144v2.pdf) \[SM 4/1/20\]  
@@ -165,7 +163,7 @@ Text Book
 **\[10.5\]** Gu, Shixiang, et al. "**Continuous Deep Q-Learning with Model-based Acceleration**." arXiv preprint arXiv:1603.00748 (2016). [\[](http://arxiv.org/pdf/1603.00748)[pdf\]](http://arxiv.org/pdf/1603.00748) **(****NAF)** ️️️️  
 **\[10.6\]** Schulman, John, et al. "**Trust region policy optimization**." CoRR, abs/1502.05477 (2015). [\[](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf) **(****TRPO)** ️️️️  
   
-**10 Unsupervised Learning / Deep Generative Model**  
+## 10 Unsupervised Learning / Deep Generative Model
   
 **\[10.0\]** Le, Quoc V. "**Building high-level features using large scale unsupervised learning**." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [\[](http://arxiv.org/pdf/1112.6209.pdf&embed)[pdf\]](http://arxiv.org/pdf/1112.6209.pdf&embed) **(****Milestone, Andrew Ng, Google Brain Project, Cat)** ️️️️  
 **\[10.1\]** Kingma, Diederik P., and Max Welling. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**️️  
@@ -190,7 +188,7 @@ Text Book
 **\[9.9\]** Xu, Kelvin, et al. "**Show, attend and tell: Neural image caption generation with visual attention**". In arXiv preprint arXiv:1502.03044, 2015. [\[](https://arxiv.org/pdf/1502.03044v3.pdf)[pdf\]](https://arxiv.org/pdf/1502.03044v3.pdf)️️️  
   
 ​  
-**10 Speech Recognition**   
+## 11 Speech Recognition
   
 **\[10.0\]** Hinton, Geoffrey, et al. "**Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**." IEEE Signal Processing Magazine 29.6 (2012): 82-97. [\[](http://cs224d.stanford.edu/papers/maas_paper.pdf)[pdf\]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(****DeepNets show progress in speech recognition.)**️️️️  
 **\[10.1\]** Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. "**Speech recognition with deep recurrent neural networks**." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [\[](http://arxiv.org/pdf/1303.5778.pdf)[pdf\]](http://arxiv.org/pdf/1303.5778.pdf) **(RNN)**️️️  
@@ -200,7 +198,7 @@ Text Book
 **\[10.5\]** W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig "**Achieving Human Parity in Conversational Speech Recognition**." arXiv preprint arXiv:1610.05256 (2016). [\[](https://arxiv.org/pdf/1610.05256v1)[pdf\]](https://arxiv.org/pdf/1610.05256v1) **(****Microsoft Speech Recognition System)** ️️  
   
   
-**12 Deep Learning Optimization and More...**  
+## 12 Deep Learning Optimization and More
   
 **\[12.0\]** Hinton, Geoffrey E., et al. "**Improving neural networks by preventing co-adaptation of feature detectors**." arXiv preprint arXiv:1207.0580 (2012). [\[](https://arxiv.org/pdf/1207.0580.pdf)[pdf\]](https://arxiv.org/pdf/1207.0580.pdf) **(****Dropout)** ️️️  
 **\[12.1\]** Srivastava, Nitish, et al. "**Dropout: a simple way to prevent neural networks from overfitting**." Journal of Machine Learning Research 15.1 (2014): 1929-1958. [\[](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)[pdf\]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) ️️️  
@@ -217,7 +215,7 @@ Text Book
 **\[12.12\]** Iandola, Forrest N., et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**." arXiv preprint arXiv:1602.07360 (2016). [\[](http://arxiv.org/pdf/1602.07360)[pdf\]](http://arxiv.org/pdf/1602.07360) **(****Also a new direction to optimize NN,DeePhi Tech Startup)** ️️️️  
   
   
-**14** **Robotics**  
+## 14 Robotics   
 **​**  
 **\[14.0\]** Koutník, Jan, et al. "**Evolving large-scale neural networks for vision-based reinforcement learning**." Proceedings of the 15th annual conference on Genetic and evolutionary computation. ACM, 2013. [\[](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf)[pdf\]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) ️️️  
 **\[14.1\]** Levine, Sergey, et al. "**End-to-end training of deep visuomotor policies**." Journal of Machine Learning Research 17.39 (2016): 1-40. [\[](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)[pdf\]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) ️️️️️  
@@ -230,7 +228,7 @@ Text Book
 **\[14.8\]** Mirowski, Piotr, et al. "**Learning to navigate in complex environments**." arXiv preprint arXiv:1611.03673 (2016). [\[](https://arxiv.org/pdf/1611.03673)[pdf\]](https://arxiv.org/pdf/1611.03673)️️️️  
   
   
-**​15  Deep Transfer Learning / Lifelong Learning / especially for RL**  
+## 15 Deep Transfer Learning / Lifelong Learning / especially for RL
   
 **\[15.0\]** Bengio, Yoshua. "**Deep Learning of Representations for Unsupervised and Transfer Learning**." ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [\[](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(****A Tutorial)** ️️️  
 **\[15.1\]** Silver, Daniel L., Qiang Yang, and Lianghao Li. "**Lifelong Machine Learning Systems: Beyond Learning Algorithms**." AAAI Spring Symposium: Lifelong Machine Learning. 2013. [\[](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf)[pdf\]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) **(****A brief discussion about lifelong learning)**  ️️️  
@@ -240,7 +238,7 @@ Text Book
 **\[15.5\]** Rusu, Andrei A., et al. "**Progressive neural networks**." arXiv preprint arXiv:1606.04671 (2016). [\[](https://arxiv.org/pdf/1606.04671)[pdf\]](https://arxiv.org/pdf/1606.04671) **(****Outstanding Work, A novel idea)** ️️️️️  
   
   
-**16 One Shot Deep Learning**  
+## 16 One Shot Deep Learning  
   
 **\[16.0\]** Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum. "**Human-level concept learning through probabilistic program induction**." Science 350.6266 (2015): 1332-1338. [\[](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf)[pdf\]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) **(****No Deep Learning, but worth reading)**️️️️️  
 **\[16.1\]** Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "**Siamese Neural Networks for One-shot Image Recognition**."(2015) [\[](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf)[pdf\]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) ️️️  
@@ -249,7 +247,7 @@ Text Book
 **\[16.4\]** Hariharan, Bharath, and Ross Girshick. "**Low-shot visual object recognition**." arXiv preprint arXiv:1606.02819 (2016). [\[](http://arxiv.org/pdf/1606.02819)[pdf\]](http://arxiv.org/pdf/1606.02819) **(****A step to large data)** ️️️️  
   
   
-**17 Neural Turing Machine**  
+## 17 Neural Turing Machine 
   
 **\[17.0\]** Graves, Alex, Greg Wayne, and Ivo Danihelka. "**Neural turing machines**." arXiv preprint arXiv:1410.5401 (2014). [\[](http://arxiv.org/pdf/1410.5401.pdf)[pdf\]](http://arxiv.org/pdf/1410.5401.pdf) **(Basic Prototype of Future Computer)** ️️️️️  
 **\[17.1\]** Zaremba, Wojciech, and Ilya Sutskever. "**Reinforcement learning neural Turing machines**." arXiv preprint arXiv:1505.00521 362 (2015). [\[](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf)[pdf\]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) ️️️  
@@ -257,3 +255,7 @@ Text Book
 **\[17.3\]** Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus. "**End-to-end memory networks**." Advances in neural information processing systems. 2015. [\[](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)[pdf\]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf) ️️️️  
 **\[17.4\]** Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. "**Pointer networks**." Advances in Neural Information Processing Systems. 2015. [\[](http://papers.nips.cc/paper/5866-pointer-networks.pdf)[pdf\]](http://papers.nips.cc/paper/5866-pointer-networks.pdf) ️️️️  
 **\[17.5\]** Graves, Alex, et al. "**Hybrid computing using a neural network with dynamic external memory**." Nature (2016). [\[](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)[pdf\]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)  ️️️️️
+
+
+
+credit [Prof. Peter N Belhumeur](https://www.advancedtopicsindeeplearning.com/)
