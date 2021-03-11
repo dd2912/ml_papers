@@ -42,24 +42,24 @@
   
 ## 3 Object Detection
   
-**\[3.0\]** H. A. Rowley, S. Baluja, and T. Kanade, “**Neural network-based face detection,**” Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognition, pp. 203–208, 1996. \[[pdf](https://courses.cs.washington.edu/courses/cse577/05sp/papers/rowley.pdf)\] \[AC 2/12/20\]  
-**\[3.1\]** P. Viola and M. Jones, “**Rapid object detection using a boosted cascade of simple features,**” in Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition.  \[[pdf](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)\] \[AC 2/12/20\]  
-**\[3.2\]** Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. "**Deep neural networks for object detection.**" Advances in Neural Information Processing Systems. 2013. [\[](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)[pdf\]](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) ️️️ \[AC 2/12/20\]  
-**\[3.3\]** Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [\[](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)[pdf\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) **(****RCNN)** ️️️️️ \[AC 2/12/20\]  
-**\[3.4\]** He, Kaiming, et al. "**Spatial pyramid pooling in deep convolutional networks for visual recognition**." European Conference on Computer Vision. Springer International Publishing, 2014. [\[](http://arxiv.org/pdf/1406.4729)[pdf\]](http://arxiv.org/pdf/1406.4729) **(****SPPNet)** ️️️️\[AC 2/12/20\]  
-**\[3.5\]** Girshick, Ross. "**Fast r-cnn**." Proceedings of the IEEE International Conference on Computer Vision. 2015. [\[](https://pdfs.semanticscholar.org/8f67/64a59f0d17081f2a2a9d06f4ed1cdea1a0ad.pdf)[pdf\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)️️️️ \[AC 2/12/20\]  
-**\[3.6\]** Ren, Shaoqing, et al. "**Faster R-CNN: Towards real-time object detection with region proposal networks**." Advances in neural information processing systems. 2015. [\[pdf\]](https://arxiv.org/abs/1506.01497) ️️️️  
-**\[3.7\]** Redmon, Joseph, et al. "**You only look once: Unified, real-time object detection**." arXiv preprint arXiv:1506.02640 (2015). [\[](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf)[pdf\]](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf) \[AC 2/12/20\]  
-**\[3.8\]** Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [\[](http://arxiv.org/pdf/1512.02325)[pdf\]](http://arxiv.org/pdf/1512.02325) ️️️\[AC 2/12/20\]  
-**\[3.9\]** Dai, Jifeng, et al. "**R-FCN: Object Detection via Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [\[](https://arxiv.org/abs/1605.06409)[pdf\]](https://arxiv.org/abs/1605.06409) ️️️️\[AC 2/12/20\]  
-**\[3.10\]** K. He et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [\[](https://arxiv.org/abs/1703.06870)[pdf\]](https://arxiv.org/abs/1703.06870) ️️️️️\[AC 2/12/20\]  
-**\[3.11\]** Tsung-Yi Lin et al. **"****Feature Pyramid Networks for Object Detection."** arXiv:1612.03144 (2017). \[[pdf\]](https://arxiv.org/pdf/1612.03144.pdf)  
-**\[3.12\]** Esteban Real, Alok Aggarwal, Yanping Huang: “**Regularized Evolution for Image Classifier Architecture Search**”, 2018; arXiv:1802.01548 \[[pdf](https://arxiv.org/pdf/1802.01548.pdf)\] \[AL 2/12/20\]  
-**\[3.13\]** Golnaz Ghiasi, Tsung-Yi Lin, Ruoming Pang: “**NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection**”, 2019; arXiv:1904.07392 \[[pdf](https://arxiv.org/pdf/1904.07392.pdf)\] \[AL 2/12/20\]  
-**\[3.14\]** Chenchen Zhu, Yihui He: “**Feature Selective Anchor-Free Module for Single-Shot Object Detection**”, 2019; arXiv:1903.00621 \[[pdf](https://arxiv.org/pdf/1903.00621.pdf)\] \[AL 2/12/20\]  
-**\[3.15\]** Yukang Chen, Tong Yang, Xiangyu Zhang, Gaofeng Meng, Xinyu Xiao: “**DetNAS: Backbone Search for Object Detection**”, 2019; arXiv:1903.10979 \[[pdf](https://arxiv.org/pdf/1903.10979.pdf)\] \[AL 2/12/20\]  
-**\[3.16\]** Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang: “**CenterNet: Keypoint Triplets for Object Detection**”, 2019; arXiv:1904.08189 \[[pdf](https://arxiv.org/pdf/1904.08189.pdf)\] \[AL 2/12/20\]  
-**\[3.17\]** Mingxing Tan, Ruoming Pang: “**EfficientDet: Scalable and Efficient Object Detection**”, 2019; arXiv:1911.09070 \[[pdf](https://arxiv.org/pdf/1911.09070.pdf) \] \[AL 2/12/20\]  
+1. H. A. Rowley, S. Baluja, and T. Kanade, **Neural network-based face detection,** Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognition, pp. 203–208, 1996. [pdf](https://courses.cs.washington.edu/courses/cse577/05sp/papers/rowley.pdf)
+2. P. Viola and M. Jones, **Rapid object detection using a boosted cascade of simple features,** in Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. [pdf](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+3. Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **Deep neural networks for object detection.** Advances in Neural Information Processing Systems. 2013. [pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
+4. Girshick, Ross, et al. **Rich feature hierarchies for accurate object detection and semantic segmentation**. Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) (RCNN) 
+5. He, Kaiming, et al. **Spatial pyramid pooling in deep convolutional networks for visual recognition**. European Conference on Computer Vision. Springer International Publishing, 2014. [pdf](http://arxiv.org/pdf/1406.4729) (SPPNet)
+6. Girshick, Ross. **Fast r-cnn**. Proceedings of the IEEE International Conference on Computer Vision. 2015. [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)️️️️
+7. Ren, Shaoqing, et al. **Faster R-CNN: Towards real-time object detection with region proposal networks**. Advances in neural information processing systems. 2015. [pdf](https://arxiv.org/abs/1506.01497) ️️️️  
+8. Redmon, Joseph, et al. **You only look once: Unified, real-time object detection**. arXiv preprint arXiv:1506.02640 (2015).[pdf](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf)  
+9. Liu, Wei, et al. **SSD: Single Shot MultiBox Detector**. arXiv preprint arXiv:1512.02325 (2015). [pdf](http://arxiv.org/pdf/1512.02325)
+10. Dai, Jifeng, et al. **R-FCN: Object Detection via Region-based Fully Convolutional Networks**. arXiv preprint arXiv:1605.06409 (2016).[pdf](https://arxiv.org/abs/1605.06409)
+11. K. He et al. **Mask R-CNN** arXiv preprint arXiv:1703.06870 (2017). [pdf](https://arxiv.org/abs/1703.06870)
+12. Tsung-Yi Lin et al. **Feature Pyramid Networks for Object Detection.** arXiv:1612.03144 (2017). [pdf](https://arxiv.org/pdf/1612.03144.pdf)  
+13. Esteban Real, Alok Aggarwal, Yanping Huang: **Regularized Evolution for Image Classifier Architecture Search**, 2018; arXiv:1802.01548 [pdf](https://arxiv.org/pdf/1802.01548.pdf)
+14. Golnaz Ghiasi, Tsung-Yi Lin, Ruoming Pang: **NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection**, 2019; arXiv:1904.07392 [pdf](https://arxiv.org/pdf/1904.07392.pdf)
+15. Chenchen Zhu, Yihui He: **Feature Selective Anchor-Free Module for Single-Shot Object Detection**, 2019; arXiv:1903.00621 [pdf](https://arxiv.org/pdf/1903.00621.pdf)
+16. Yukang Chen, Tong Yang, Xiangyu Zhang, Gaofeng Meng, Xinyu Xiao: **DetNAS: Backbone Search for Object Detection**, 2019; arXiv:1903.10979 [pdf](https://arxiv.org/pdf/1903.10979.pdf) 
+17. Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang: **CenterNet: Keypoint Triplets for Object Detection**, 2019; arXiv:1904.08189 [pdf](https://arxiv.org/pdf/1904.08189.pdf)
+18. Mingxing Tan, Ruoming Pang: **EfficientDet: Scalable and Efficient Object Detection**, 2019; arXiv:1911.09070 [pdf](https://arxiv.org/pdf/1911.09070.pdf)
   
   
 ## 4 Object Segmentation and Self-Supervised Learning  
