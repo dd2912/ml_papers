@@ -62,15 +62,15 @@
 7. **Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.** 2018. [pdf](https://arxiv.org/pdf/1802.02611.pdf)
 8. **Learning to Segment Everything.** 2018. [pdf](https://arxiv.org/pdf/1711.10370.pdf)
   
-**Self-Supervised Learning:**  
-9. **Unsupervised Visual Representation Learning by Context Prediction.** 2015. [pdf](https://arxiv.org/pdf/1505.05192.pdf) 
-10. **Colorful Image Colorization.** 2016. [pdf](https://arxiv.org/pdf/1603.08511.pdf)
-11. **Representation Learning by Learning to Count**. 2017. [pdf](https://arxiv.org/pdf/1708.06734.pdf)
-12. **Learning and Using the Arrow of Time.** 2018. [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2018/Wei18/wei18.pdf)
-13. **Tracking Emerges by Colorizing Videos.** 2018. [pdf](https://arxiv.org/pdf/1806.09594.pdf)
-14. **Audio-Visual Scene Analysis with Self-Supervised Multi-sensory Features.** 2018. [pdf](https://arxiv.org/pdf/1804.03641.pdf)  
-15. **Object Discovery with a Copy-Pasting GAN.** 2019. [pdf](https://arxiv.org/pdf/1905.11369.pdf)
-16. **SimCLR: A Simple Framework for Contrastive Learning of Representations.** 2020. [pdf](https://arxiv.org/pdf/2002.05709.pdf)
+**Self-Supervised Learning:** 
+1. **Unsupervised Visual Representation Learning by Context Prediction.** 2015. [pdf](https://arxiv.org/pdf/1505.05192.pdf) 
+2. **Colorful Image Colorization.** 2016. [pdf](https://arxiv.org/pdf/1603.08511.pdf)
+3. **Representation Learning by Learning to Count**. 2017. [pdf](https://arxiv.org/pdf/1708.06734.pdf)
+4. **Learning and Using the Arrow of Time.** 2018. [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2018/Wei18/wei18.pdf)
+5. **Tracking Emerges by Colorizing Videos.** 2018. [pdf](https://arxiv.org/pdf/1806.09594.pdf)
+6. **Audio-Visual Scene Analysis with Self-Supervised Multi-sensory Features.** 2018. [pdf](https://arxiv.org/pdf/1804.03641.pdf)  
+7. **Object Discovery with a Copy-Pasting GAN.** 2019. [pdf](https://arxiv.org/pdf/1905.11369.pdf)
+8. **SimCLR: A Simple Framework for Contrastive Learning of Representations.** 2020. [pdf](https://arxiv.org/pdf/2002.05709.pdf)
   
   
 ## 5 Generative Adversarial Networks and Applications 
