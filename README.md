@@ -53,14 +53,14 @@
 ## 4 Object Segmentation and Self-Supervised Learning  
   
 **Segmentation:**  
-**\[4a.0\]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [\[](https://arxiv.org/pdf/1411.4038v2.pdf)[pdf\]](https://arxiv.org/pdf/1411.4038v2.pdf)️️️️️ \[MG 2/19/20\]  
-**\[4a.1\]** O. Ronnenberger et al. “**U-Net: Convolutional Networks for Biomedical Image Segmentation.**” 2015. \[[pdf](https://arxiv.org/pdf/1505.04597.pdf)\] \[MG 2/19/20\]  
-**\[4a.2\]** “**Multi-Scale Context Aggregation by Dilated Convolutions.**” 2016.  \[[pdf](https://arxiv.org/pdf/1511.07122.pdf)\] \[MG 2/19/20\]  
-**​\[4a.3\]** **(Deeplabv2) “****DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.**” 2016.  \[[pdf](https://arxiv.org/pdf/1606.00915.pdf)\] \[MG 2/19/20\]  
-**\[4a.4\] (DeepLabv3)** “**Rethinking Atrous Convolution for Semantic Image Segmentation**.” 2017.  \[[pdf](https://arxiv.org/pdf/1706.05587.pdf)\] \[MG 2/19/20\]  
-**\[4a.5\]** K. He et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870. 2017. [\[](https://arxiv.org/abs/1703.06870)[pdf\]](https://arxiv.org/abs/1703.06870) ️️️️️ \[MG 2/19/20\]  
-**\[4a.6\]** **(DeepLabv3+)** “**Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.**” 2018.  \[[pdf](https://arxiv.org/pdf/1802.02611.pdf)\] \[MG 2/19/20\]  
-**\[4a.7\]** “**Learning to Segment Everything.**” 2018.  \[[pdf\]](https://arxiv.org/pdf/1711.10370.pdf) \[MG 2/19/20\]  
+1. J. Long, E. Shelhamer, and T. Darrell, **Fully convolutional networks for semantic segmentation**. in CVPR, 2015. [pdf](https://arxiv.org/pdf/1411.4038v2.pdf)
+2. O. Ronnenberger et al. **U-Net: Convolutional Networks for Biomedical Image Segmentation.** 2015. [pdf](https://arxiv.org/pdf/1505.04597.pdf)
+3. **Multi-Scale Context Aggregation by Dilated Convolutions.** 2016. [pdf](https://arxiv.org/pdf/1511.07122.pdf)
+4. **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.** 2016. [pdf](https://arxiv.org/pdf/1606.00915.pdf)
+5. **Rethinking Atrous Convolution for Semantic Image Segmentation**. 2017.  [pdf](https://arxiv.org/pdf/1706.05587.pdf)
+6. K. He et al. **Mask R-CNN** arXiv preprint arXiv:1703.06870. 2017. [pdf](https://arxiv.org/abs/1703.06870)
+7. **Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.** 2018. [pdf](https://arxiv.org/pdf/1802.02611.pdf)
+8. **Learning to Segment Everything.** 2018. [pdf](https://arxiv.org/pdf/1711.10370.pdf)
   
 **Self-Supervised Learning:**  
 **\[4b.0\]** "**Unsupervised Visual Representation Learning by Context Prediction.**"  2015. \[[pdf](https://arxiv.org/pdf/1505.05192.pdf)\] \[BVH 2/19/20\]  
