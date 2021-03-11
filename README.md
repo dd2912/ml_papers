@@ -35,15 +35,10 @@
 1. H. A. Rowley, S. Baluja, and T. Kanade, **Neural network-based face detection,** Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognition, pp. 203–208, 1996. [pdf](https://courses.cs.washington.edu/courses/cse577/05sp/papers/rowley.pdf)
 2. P. Viola and M. Jones, **Rapid object detection using a boosted cascade of simple features,** in Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. [pdf](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 3. Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **Deep neural networks for object detection.** Advances in Neural Information Processing Systems. 2013. [pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
-
 4. Girshick, Ross, et al. **Rich feature hierarchies for accurate object detection and semantic segmentation**. Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) (RCNN) 
-
 5. He, Kaiming, et al. **Spatial pyramid pooling in deep convolutional networks for visual recognition**. European Conference on Computer Vision. Springer International Publishing, 2014. [pdf](http://arxiv.org/pdf/1406.4729) (SPPNet)
-
 6. Girshick, Ross. **Fast r-cnn**. Proceedings of the IEEE International Conference on Computer Vision. 2015. [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)️️️️
-
 7. Ren, Shaoqing, et al. **Faster R-CNN: Towards real-time object detection with region proposal networks**. Advances in neural information processing systems. 2015. [pdf](https://arxiv.org/abs/1506.01497) ️️️️  
-
 8. Redmon, Joseph, et al. **You only look once: Unified, real-time object detection**. arXiv preprint arXiv:1506.02640 (2015).[pdf](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf)  
 9. Liu, Wei, et al. **SSD: Single Shot MultiBox Detector**. arXiv preprint arXiv:1512.02325 (2015). [pdf](http://arxiv.org/pdf/1512.02325)
 10. Dai, Jifeng, et al. **R-FCN: Object Detection via Region-based Fully Convolutional Networks**. arXiv preprint arXiv:1605.06409 (2016).[pdf](https://arxiv.org/abs/1605.06409)
