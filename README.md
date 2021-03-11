@@ -2,33 +2,33 @@
 ## 1 Introduction to Deep Learning
 
 ### Text Book
-1. Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
+1.1 Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **Deep learning**. An MIT Press book. (2015). [pdf](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
 
 ### High-level Survey
-2. LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. **Deep learning**. Nature 521.7553 (2015): 436-444.[pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+1.2 LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. **Deep learning**. Nature 521.7553 (2015): 436-444.[pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 ️️️️️
 ### Courses
-3. MIT 6.S191Introduction to Deep Learning [web](http://introtodeeplearning.com/)
+1.3 MIT 6.S191Introduction to Deep Learning [web](http://introtodeeplearning.com/)
 
-4. Dive into Deep Learning [web](https://d2l.ai/index.html)
+1.4 Dive into Deep Learning [web](https://d2l.ai/index.html)
 
 
 ## 2 Convolutional Neural Networks (CNNs)
   
-**LeNet: Image Classification on Handwritten Digits  
-\[2.0\]** Y. LeCun, L. Bottou, Y. Bengio and P. Haffner.  "**Gradient-Based Learning Applied to Document Recognition."**  Proceedings of the IEEE, 86(11):2278-2324. _**1998.**_️[\[pdf\]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) (Seminal Paper: LeNet)  
+### LeNet: Image Classification on Handwritten Digits  
+2.0 Y. LeCun, L. Bottou, Y. Bengio and P. Haffner. **Gradient-Based Learning Applied to Document Recognition.**  Proceedings of the IEEE, 86(11):2278-2324. 1998.[pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) (Seminal Paper: LeNet)  
   
-**Image Classification on ImageNet**  
-**\[2.1\]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [\[](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[pdf\]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) ️️️️\[JRC 2/5/20\]  
-**​\[2.2\]** Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [\[](https://arxiv.org/pdf/1409.1556.pdf)[pdf\]](https://arxiv.org/pdf/1409.1556.pdf) **(VGG Network)** \[JRC 2/5/20\]  
-**\[2.3\]** Szegedy, Christian, et al. "**Going deeper with convolutions**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [\[](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)[pdf\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) (GoogleNet) \[JRC 2/5/20\]  
-**\[2.4\]** He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [\[pdf\]](https://arxiv.org/pdf/1512.03385.pdf) (ResNet[)](https://arxiv.org/pdf/1512.03385.pdf) \[JRC 2/5/20\]  
-**\[2.5\]** Huang, G. et al. "**Densely Connected Convolutional Networks**." arXiv preprint arXiv:1608.06993 (2017) [\[pdf\]](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet) \[JRC 2/4/20\]  
-**\[2.6\]** Hu, Jie et al.  "**Squeeze-and-Excitation Networks**." arXiv preprint arXiv:1709.01507 (2017) [\[pdf\]](https://arxiv.org/pdf/1709.01507.pdf)  
-**\[2.7\]** Howard, A. G. et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.**" \[[pdf](https://arxiv.org/abs/1704.04861)\] \[Dhruv 2/5/20\]  
-**\[2.8\]** Tan, M. and Le, Q. V. "**EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**." \[[pdf](https://arxiv.org/abs/1905.11946)\] \[Dhruv 2/5/20\]  
-**\[2.9\]** Xie, Q. et al. "**Self-training with Noisy Student improves ImageNet classification.**" \[[pdf](https://arxiv.org/pdf/1911.04252.pdf)\] \[Dhruv 2/5/20\]  
-**\[2.10\]** Bojarski, M. et al. **"****End to End Learning for Self-Driving Cars.**" \[[pdf](https://arxiv.org/pdf/1604.07316.pdf)\] \[Dhruv 2/5/20\]  
+### Image Classification on ImageNet
+2.1 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **Imagenet classification with deep convolutional neural networks**. Advances in neural information processing systems. 2012.[pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
+2.2 Simonyan, Karen, and Andrew Zisserman. **Very deep convolutional networks for large-scale image recognition**. arXiv preprint arXiv:1409.1556 (2014).[pdf](https://arxiv.org/pdf/1409.1556.pdf)
+2.3 Szegedy, Christian, et al. **Going deeper with convolutions**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+2.4 He, Kaiming, et al. **Deep residual learning for image recognition**. arXiv preprint arXiv:1512.03385 (2015). [pdf](https://arxiv.org/pdf/1512.03385.pdf) [ResNet](https://arxiv.org/pdf/1512.03385.pdf) 
+2.5 Huang, G. et al. **Densely Connected Convolutional Networks**. arXiv preprint arXiv:1608.06993 (2017) [pdf](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet)
+2.6 Hu, Jie et al.  **Squeeze-and-Excitation Networks**. arXiv preprint arXiv:1709.01507 (2017) [pdf](https://arxiv.org/pdf/1709.01507.pdf)
+2.7 Howard, A. G. et al. **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.** [pdf](https://arxiv.org/abs/1704.04861)\]
+2.8 Tan, M. and Le, Q. V. **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**. [pdf](https://arxiv.org/abs/1905.11946)
+2.9 Xie, Q. et al. **Self-training with Noisy Student improves ImageNet classification.** [pdf](https://arxiv.org/pdf/1911.04252.pdf)
+2.10 Bojarski, M. et al. **End to End Learning for Self-Driving Cars.** [pdf](https://arxiv.org/pdf/1604.07316.pdf)
   
   
 ## 3 Object Detection
