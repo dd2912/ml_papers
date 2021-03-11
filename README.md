@@ -76,34 +76,33 @@
 ## 5 Generative Adversarial Networks and Applications 
   
 **Generative Adversarial Networks:**  
-**\[5a.0\]** Kingma, D, and Welling, M. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**\[AD 2/26/20\]  
-**\[5a.1\]** Goodfellow, Ian, et al. "**Generative adversarial nets**."  2014. [\[](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[pdf\]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) \[AD 2/26/20\]  
-**\[5a.2\]** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**." arXiv preprint arXiv:1601.06759 (2016). [\[](http://arxiv.org/pdf/1601.06759)[pdf\]](http://arxiv.org/pdf/1601.06759) **(****PixelRNN)** \[AD 2/26/20\]  
-**\[5a.3\]** Makzhani, Alireza, et al. "**Adversarial Autoencoders**" arXiv:1511.05644 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](https://arxiv.org/pdf/1511.05644) \[AD 2/26/20\]  
-**\[5a.4\]** Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv:1502.04623 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf) \[AD 2/26/20\]  
+1. Kingma, D, and Welling, M. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**\[AD 2/26/20\]  
+2. Goodfellow, Ian, et al. "**Generative adversarial nets**."  2014. [\[](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[pdf\]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) \[AD 2/26/20\]  
+3. Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**." arXiv preprint arXiv:1601.06759 (2016). [\[](http://arxiv.org/pdf/1601.06759)[pdf\]](http://arxiv.org/pdf/1601.06759) **(****PixelRNN)** \[AD 2/26/20\]  
+4. Makzhani, Alireza, et al. "**Adversarial Autoencoders**" arXiv:1511.05644 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](https://arxiv.org/pdf/1511.05644) \[AD 2/26/20\]  
+5. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv:1502.04623 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf) \[AD 2/26/20\]  
   
 **Applications:**  
-**\[5b.0\]** "**Wasserstein GAN.**"  2017. \[[pdf](https://arxiv.org/pdf/1701.07875.pdf)\] \[ZY 2/26/20\]  
-**\[5b.1\]** "**Large Scale GAN Training for High Fidelity Natural Image Synthesis.**" 2018.  \[[pdf](https://arxiv.org/pdf/1809.11096.pdf)\] \[ZY 2/26/20\]  
-**\[5b.2\]** "**A Style-based Generator Architecture for Generative Adversarial Networks**" 2018.  \[[pdf\]](https://arxiv.org/pdf/1812.04948.pdf) \[ZY 2/26/20\]  
-**\[5b.3\]** "**Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**" 2017.  \[[pdf](https://arxiv.org/pdf/1703.10593.pdf)\] \[ZY 2/26/20\]  
-**\[5b.4\]** "**Conditional LSTM-GAN for Melody Generation from Lyrics.**" 2019.  \[[pdf](https://arxiv.org/pdf/1908.05551.pdf)\] \[ZY 2/26/20\]  
-**\[5b.5\]** "**GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction.**" 2019.  \[[pdf](https://arxiv.org/pdf/1902.05978.pdf)\] \[ZY 2/26/20\]  
+6. **Wasserstein GAN.**  2017. [pdf](https://arxiv.org/pdf/1701.07875.pdf) 
+7. **Large Scale GAN Training for High Fidelity Natural Image Synthesis.**" 2018. [pdf](https://arxiv.org/pdf/1809.11096.pdf) 
+8. **A Style-based Generator Architecture for Generative Adversarial Networks**" 2018. [pdf](https://arxiv.org/pdf/1812.04948.pdf)
+9. **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1703.10593.pdf)
+10. **Conditional LSTM-GAN for Melody Generation from Lyrics.**" 2019. [pdf](https://arxiv.org/pdf/1908.05551.pdf)
+11. **GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction.**" 2019. [pdf](https://arxiv.org/pdf/1902.05978.pdf) 
   
 **"Art":**  
-**\[5c.0\]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(****Deep Dream)** \[YH 3/4/20\]  
-**\[5c.1\]** Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [\[](http://arxiv.org/pdf/1508.06576)[pdf\]](http://arxiv.org/pdf/1508.06576) **(****Outstanding Work)** \[YH 3/4/20\]  
-**\[5c.2\]** "**CAN: Creative Adversarial Networks**" 2017.  \[[pdf\]](https://arxiv.org/pdf/1706.07068.pdf) \[YH 3/4/20\]  
-**\[5c.3\]** "**Semantic Image Synthesis with Spatially-Adaptive Normalization**" 2019.  \[[pdf](https://arxiv.org/pdf/1903.07291.pdf)\] \[YH 3/4/20\]  
-**\[5c.4\]** "**Deep Poetry: Word-Level and Char-Level Language Models for Shakespearean Sonnet Generation**" \[[pdf](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2762063.pdf)\] \[YH 3/4/20\]  
-**\[5c.5\]** "**BachProp: Learning to Compose Music in Multiple Styles**" 2018.  \[[pdf](https://arxiv.org/pdf/1802.05162.pdf)\] \[YH 3/4/20\]  
-  
-**\[5d.0\]** "**A 'New' Rembrandt: From the Frontiers of AI And Not The Artist's Atelier**" 2016. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier) \[YH 3/4/20\]  
-**\[5d.1\]** "**Is artificial intelligence set to become art’s next medium?**" 2018. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx) \[YH 3/4/20\]  
-**\[5d.2\]** "**AI Will Enhance - Not End - Human Art**" 2019. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://onezero.medium.com/a-i-will-enhance-not-end-human-art-f575e9ff9325) \[YH 3/4/20\]  
-**\[5d.3\]** "**An AI-Written Novella Almost Won a Literary Prize**" 2016. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://www.smithsonianmag.com/smart-news/ai-written-novella-almost-won-literary-prize-180958577/) \[YH 3/4/20\]  
-**\[5d.4\]** "**How AI-Generated Music Is Changing The Way Hits Are Made**" 2018. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music) \[YH 3/4/20\]  
-**\[5d.5\]** "**AI puts final notes on Beethoven's Tenth Symphony**" 2019. [\[](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[html\]](https://techxplore.com/news/2019-12-ai-beethoven-tenth-symphony.html) \[YH 3/4/20\]  
+12. Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [html](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) 
+13. Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [pdf](http://arxiv.org/pdf/1508.06576) 
+14. **CAN: Creative Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1706.07068.pdf) 
+15. **Semantic Image Synthesis with Spatially-Adaptive Normalization**" 2019. [pdf](https://arxiv.org/pdf/1903.07291.pdf)
+16. **Deep Poetry: Word-Level and Char-Level Language Models for Shakespearean Sonnet Generation**" [pdf](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2762063.pdf)
+17. **BachProp: Learning to Compose Music in Multiple Styles**" 2018. [pdf](https://arxiv.org/pdf/1802.05162.pdf)  
+18. **A 'New' Rembrandt: From the Frontiers of AI And Not The Artist's Atelier**" 2016. [html](https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier)
+19. **Is artificial intelligence set to become art’s next medium?**" 2018. [html](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx)
+20. **AI Will Enhance - Not End - Human Art**" 2019. [html](https://onezero.medium.com/a-i-will-enhance-not-end-human-art-f575e9ff9325) 
+21. **An AI-Written Novella Almost Won a Literary Prize**" 2016. [html](https://www.smithsonianmag.com/smart-news/ai-written-novella-almost-won-literary-prize-180958577/)
+22. **How AI-Generated Music Is Changing The Way Hits Are Made**" 2018.[html](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
+23. **AI puts final notes on Beethoven's Tenth Symphony**" 2019. [html](https://techxplore.com/news/2019-12-ai-beethoven-tenth-symphony.html)
   
 **Previous Papers**  
 **\[5.1\]** Zhu, Jun-Yan, et al. "**Generative Visual Manipulation on the Natural Image Manifold**." European Conference on Computer Vision. Springer International Publishing, 2016. [\[](https://arxiv.org/pdf/1609.03552)[pdf\]](https://arxiv.org/pdf/1609.03552) **(****iGAN)** ️️️️  
