@@ -83,26 +83,26 @@
 5. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv:1502.04623 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf) \[AD 2/26/20\]  
   
 **Applications:**  
-6. **Wasserstein GAN.**  2017. [pdf](https://arxiv.org/pdf/1701.07875.pdf) 
-7. **Large Scale GAN Training for High Fidelity Natural Image Synthesis.**" 2018. [pdf](https://arxiv.org/pdf/1809.11096.pdf) 
-8. **A Style-based Generator Architecture for Generative Adversarial Networks**" 2018. [pdf](https://arxiv.org/pdf/1812.04948.pdf)
-9. **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1703.10593.pdf)
-10. **Conditional LSTM-GAN for Melody Generation from Lyrics.**" 2019. [pdf](https://arxiv.org/pdf/1908.05551.pdf)
-11. **GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction.**" 2019. [pdf](https://arxiv.org/pdf/1902.05978.pdf) 
+1. **Wasserstein GAN.**  2017. [pdf](https://arxiv.org/pdf/1701.07875.pdf) 
+2. **Large Scale GAN Training for High Fidelity Natural Image Synthesis.**" 2018. [pdf](https://arxiv.org/pdf/1809.11096.pdf) 
+3. **A Style-based Generator Architecture for Generative Adversarial Networks**" 2018. [pdf](https://arxiv.org/pdf/1812.04948.pdf)
+4. **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1703.10593.pdf)
+5. **Conditional LSTM-GAN for Melody Generation from Lyrics.**" 2019. [pdf](https://arxiv.org/pdf/1908.05551.pdf)
+6. **GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction.**" 2019. [pdf](https://arxiv.org/pdf/1902.05978.pdf) 
   
 **"Art":**  
-12. Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [html](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) 
-13. Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [pdf](http://arxiv.org/pdf/1508.06576) 
-14. **CAN: Creative Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1706.07068.pdf) 
-15. **Semantic Image Synthesis with Spatially-Adaptive Normalization**" 2019. [pdf](https://arxiv.org/pdf/1903.07291.pdf)
-16. **Deep Poetry: Word-Level and Char-Level Language Models for Shakespearean Sonnet Generation**" [pdf](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2762063.pdf)
-17. **BachProp: Learning to Compose Music in Multiple Styles**" 2018. [pdf](https://arxiv.org/pdf/1802.05162.pdf)  
-18. **A 'New' Rembrandt: From the Frontiers of AI And Not The Artist's Atelier**" 2016. [html](https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier)
-19. **Is artificial intelligence set to become art’s next medium?**" 2018. [html](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx)
-20. **AI Will Enhance - Not End - Human Art**" 2019. [html](https://onezero.medium.com/a-i-will-enhance-not-end-human-art-f575e9ff9325) 
-21. **An AI-Written Novella Almost Won a Literary Prize**" 2016. [html](https://www.smithsonianmag.com/smart-news/ai-written-novella-almost-won-literary-prize-180958577/)
-22. **How AI-Generated Music Is Changing The Way Hits Are Made**" 2018.[html](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
-23. **AI puts final notes on Beethoven's Tenth Symphony**" 2019. [html](https://techxplore.com/news/2019-12-ai-beethoven-tenth-symphony.html)
+1. Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [html](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) 
+2. Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [pdf](http://arxiv.org/pdf/1508.06576) 
+3. **CAN: Creative Adversarial Networks**" 2017. [pdf](https://arxiv.org/pdf/1706.07068.pdf) 
+4. **Semantic Image Synthesis with Spatially-Adaptive Normalization**" 2019. [pdf](https://arxiv.org/pdf/1903.07291.pdf)
+6. **Deep Poetry: Word-Level and Char-Level Language Models for Shakespearean Sonnet Generation**" [pdf](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2762063.pdf)
+7. **BachProp: Learning to Compose Music in Multiple Styles**" 2018. [pdf](https://arxiv.org/pdf/1802.05162.pdf)  
+8. **A 'New' Rembrandt: From the Frontiers of AI And Not The Artist's Atelier**" 2016. [html](https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier)
+9. **Is artificial intelligence set to become art’s next medium?**" 2018. [html](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx)
+10. **AI Will Enhance - Not End - Human Art**" 2019. [html](https://onezero.medium.com/a-i-will-enhance-not-end-human-art-f575e9ff9325) 
+11. **An AI-Written Novella Almost Won a Literary Prize**" 2016. [html](https://www.smithsonianmag.com/smart-news/ai-written-novella-almost-won-literary-prize-180958577/)
+12. **How AI-Generated Music Is Changing The Way Hits Are Made**" 2018.[html](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
+13. **AI puts final notes on Beethoven's Tenth Symphony**" 2019. [html](https://techxplore.com/news/2019-12-ai-beethoven-tenth-symphony.html)
   
 **Previous Papers**  
 **\[5.1\]** Zhu, Jun-Yan, et al. "**Generative Visual Manipulation on the Natural Image Manifold**." European Conference on Computer Vision. Springer International Publishing, 2016. [\[](https://arxiv.org/pdf/1609.03552)[pdf\]](https://arxiv.org/pdf/1609.03552) **(****iGAN)** ️️️️  
