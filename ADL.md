@@ -13,3 +13,11 @@
 - Analyzing Classifiers: Fisher Vectors and Deep Neural Networks [pdf](https://arxiv.org/pdf/1512.00172.pdf)
 - ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases [pdf](https://arxiv.org/abs/1711.11443)
 - Visual Information Theory [html](http://colah.github.io/posts/2015-09-Visual-Information/)
+
+
+## Lecture 3
+- Visualizing what convnets learn [notebook](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
+- Attenion Maps [colab](https://colab.research.google.com/drive/1D3d4lGT8MwIq1frCHumIsf6X5Mcxacr0#scrollTo=i6bmBMp3QoLR)
+- “Why Should I Trust You?” Explaining the Predictions of Any Classifier [pdf](https://arxiv.org/pdf/1602.04938.pdf)
+- LIME [colab](https://colab.research.google.com/github/marcotcr/lime/blob/master/doc/notebooks/Tutorial%20-%20Image%20Classification%20Keras.ipynb#scrollTo=LgSzX-nVxwkV)
+- 
