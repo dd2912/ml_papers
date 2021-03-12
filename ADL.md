@@ -20,4 +20,10 @@
 - Attenion Maps [colab](https://colab.research.google.com/drive/1D3d4lGT8MwIq1frCHumIsf6X5Mcxacr0#scrollTo=i6bmBMp3QoLR)
 - “Why Should I Trust You?” Explaining the Predictions of Any Classifier [pdf](https://arxiv.org/pdf/1602.04938.pdf)
 - LIME [colab](https://colab.research.google.com/github/marcotcr/lime/blob/master/doc/notebooks/Tutorial%20-%20Image%20Classification%20Keras.ipynb#scrollTo=LgSzX-nVxwkV)
-- 
+- Fast Style Transfer [code](https://github.com/lengstrom/fast-style-transfer)
+- Colah's Blog [html](https://colah.github.io/)
+- Distill [html](https://distill.pub/)
+- Very Deep Convolutional Networks for Large-Scale Image Recognition [html](https://arxiv.org/pdf/1409.1556.pdf)
+- Deep Residual Learning for Image Recognition [pdf](https://arxiv.org/pdf/1512.03385.pdf)
+- You Only Look Once: Unified, Real-Time Object Detection [pdf](https://arxiv.org/pdf/1506.02640.pdf)
+- U-Net: Convolutional Networks for Biomedical Image Segmentation [pdf](https://arxiv.org/pdf/1505.04597.pdf)
