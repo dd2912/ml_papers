@@ -27,3 +27,12 @@
 - Deep Residual Learning for Image Recognition [pdf](https://arxiv.org/pdf/1512.03385.pdf)
 - You Only Look Once: Unified, Real-Time Object Detection [pdf](https://arxiv.org/pdf/1506.02640.pdf)
 - U-Net: Convolutional Networks for Biomedical Image Segmentation [pdf](https://arxiv.org/pdf/1505.04597.pdf)
+
+## Lecture 4
+- Hidden Technical Debt in Machine Learning Systems [pdf](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+- Rethinking the Inception Architecture for Computer Vision [pdf](https://arxiv.org/pdf/1512.00567.pdf)
+- “Why Should I Trust You?” Explaining the Predictions of Any Classifier [pdf](https://arxiv.org/pdf/1602.04938.pdf)
+- LIME [code[](https://github.com/marcotcr/lime)
+- Hidden Technical Debt in Machine Learning Systems [pdf](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+- What’s your ML Test Score? A rubric for ML roduction systems [pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
+- 
