@@ -166,17 +166,17 @@
 5. Gu, Shixiang, et al. **Continuous Deep Q-Learning with Model-based Acceleration**. (2016). [pdf](http://arxiv.org/pdf/1603.00748)
 6. Schulman, John, et al. **Trust region policy optimization**. CoRR, abs/1502.05477 (2015). [pdf](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
-## 10 Unsupervised Learning / Deep Generative Model
+## 11 Unsupervised Learning / Deep Generative Model
 
-**\[10.0\]** Le, Quoc V. **Building high-level features using large scale unsupervised learning**. 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [\[](http://arxiv.org/pdf/1112.6209.pdf&embed)[pdf\]](http://arxiv.org/pdf/1112.6209.pdf&embed) **(****Milestone, Andrew Ng, Google Brain Project, Cat)** ️️️️
-**\[10.1\]** Kingma, Diederik P., and Max Welling. **Auto-encoding variational bayes**. arXiv preprint arXiv:1312.6114 (2013). [\[](http://arxiv.org/pdf/1312.6114)[pdf\]](http://arxiv.org/pdf/1312.6114)**(VAE)**️️
-**\[10.2\]** Goodfellow, Ian, et al. **Generative adversarial nets**. Advances in Neural Information Processing Systems. 2014. [\[](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[pdf\]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)**(GAN,super cool idea)** ️️️️️
-**\[10.3\]** Radford, Alec, Luke Metz, and Soumith Chintala. **Unsupervised representation learning with deep convolutional generative adversarial networks**. arXiv preprint arXiv:1511.06434 (2015). [\[](http://arxiv.org/pdf/1511.06434)[pdf\]](http://arxiv.org/pdf/1511.06434) **(****DCGAN)** ️️️️
-**\[10.4\]** Gregor, Karol, et al. **DRAW: A recurrent neural network for image generation**. arXiv preprint arXiv:1502.04623 (2015). [\[](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)[pdf\]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf) **(****VAE with attention, outstanding work)** ️️️️️
-**\[10.5\]** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. **Pixel recurrent neural networks**. arXiv preprint arXiv:1601.06759 (2016). [\[](http://arxiv.org/pdf/1601.06759)[pdf\]](http://arxiv.org/pdf/1601.06759) **(****PixelRNN)** ️️️️
-**\[10.6\]** Oord, Aaron van den, et al. Conditional image generation with PixelCNN decoders. arXiv preprint arXiv:1606.05328 (2016). [\[](https://arxiv.org/pdf/1606.05328)[pdf\]](https://arxiv.org/pdf/1606.05328) **(****PixelCNN)** ️️️
+1. Le, Quoc V. **Building high-level features using large scale unsupervised learning**. [pdf](http://arxiv.org/pdf/1112.6209.pdf&embed)
+2. Kingma, Diederik P., and Max Welling. **Auto-encoding variational bayes**. (2013). [pdf](http://arxiv.org/pdf/1312.6114)
+3. Goodfellow, Ian, et al. **Generative adversarial nets**. Advances in Neural Information Processing Systems. 2014. [pdf](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+4. Radford, Alec, Luke Metz, and Soumith Chintala. **Unsupervised representation learning with deep convolutional generative adversarial networks**. (2015). [pdf](http://arxiv.org/pdf/1511.06434)
+5. Gregor, Karol, et al. **DRAW: A recurrent neural network for image generation**. (2015). [pdf](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)
+6. Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. **Pixel recurrent neural networks**. (2016). [pdf](http://arxiv.org/pdf/1601.06759)
+7. Oord, Aaron van den, et al. Conditional image generation with PixelCNN decoders. (2016). [pdf](https://arxiv.org/pdf/1606.05328)
 
-**9 Image Captioning**
+## 12 Image Captioning**
 
 **\[9.0\]** Farhadi,Ali,etal. **Every picture tells a story: Generating sentences from images**. In Computer VisionECCV 2010. Springer Berlin Heidelberg:15-29, 2010. [\[](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)[pdf\]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf) ️️️
 **\[9.1\]** Kulkarni, Girish, et al. **Baby talk: Understanding and generating image descriptions**. In Proceedings of the 24th CVPR, 2011. [\[](http://tamaraberg.com/papers/generation_cvpr11.pdf)[pdf\]](http://tamaraberg.com/papers/generation_cvpr11.pdf)️️️️
