@@ -105,12 +105,12 @@
 13. **AI puts final notes on Beethoven's Tenth Symphony** 2019. [html](https://techxplore.com/news/2019-12-ai-beethoven-tenth-symphony.html)
   
 **Previous Papers**  
-**\[5.1\]** Zhu, Jun-Yan, et al. **Generative Visual Manipulation on the Natural Image Manifold**. European Conference on Computer Vision. Springer International Publishing, 2016. [\[](https://arxiv.org/pdf/1609.03552)[pdf\]](https://arxiv.org/pdf/1609.03552) **(****iGAN)** ️️️️  
-**\[5.2\]** Champandard, Alex J. **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**. arXiv preprint arXiv:1603.01768 (2016). [\[](http://arxiv.org/pdf/1603.01768)[pdf\]](http://arxiv.org/pdf/1603.01768) **(****Neural Doodle)** ️️️️  
-**\[5.3\]** Johnson, Justin, Alexandre Alahi, and Li Fei-Fei. **Perceptual losses for real-time style transfer and super-resolution**. arXiv preprint arXiv:1603.08155 (2016). [\[](https://arxiv.org/pdf/1603.08155.pdf)[pdf\]](https://arxiv.org/pdf/1603.08155.pdf) ️️️️  
-**\[5.4\]** Vincent Dumoulin, Jonathon Shlens and Manjunath Kudlur. **A learned representation for artistic style**. arXiv preprint arXiv:1610.07629 (2016). [\[](https://arxiv.org/pdf/1610.07629v1.pdf)[pdf\]](https://arxiv.org/pdf/1610.07629v1.pdf) ️️️️  
-**\[5.5\]** Gatys, Leon and Ecker, et al.**Controlling Perceptual Factors in Neural Style Transfer**. arXiv preprint arXiv:1611.07865 (2016). [\[](https://arxiv.org/pdf/1611.07865.pdf)[pdf\]](https://arxiv.org/pdf/1611.07865.pdf) **(****control style transfer over spatial location,colour information and across spatial scale)**️️️️  
-**\[5.6\]** Ulyanov, Dmitry and Lebedev, Vadim, et al. **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**. arXiv preprint arXiv:1603.03417(2016). [\[](http://arxiv.org/abs/1603.03417)[pdf\]](http://arxiv.org/abs/1603.03417) **(Texture generation and style transfer)** ️️️️  
+1. Zhu, Jun-Yan, et al. **Generative Visual Manipulation on the Natural Image Manifold**. European Conference on Computer Vision. Springer International Publishing, 2016. [pdf](https://arxiv.org/pdf/1609.03552)
+2. Champandard, Alex J. **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**. arXiv preprint arXiv:1603.01768 (2016). [pdf](http://arxiv.org/pdf/1603.01768)
+3. Johnson, Justin, Alexandre Alahi, and Li Fei-Fei. **Perceptual losses for real-time style transfer and super-resolution**. arXiv preprint arXiv:1603.08155 (2016). [pdf](https://arxiv.org/pdf/1603.08155.pdf) ️️️️  
+4. Vincent Dumoulin, Jonathon Shlens and Manjunath Kudlur. **A learned representation for artistic style**. arXiv preprint arXiv:1610.07629 (2016). [pdf](https://arxiv.org/pdf/1610.07629v1.pdf) ️️️️  
+5. Gatys, Leon and Ecker, et al.**Controlling Perceptual Factors in Neural Style Transfer**. arXiv preprint arXiv:1611.07865 (2016). [pdf](https://arxiv.org/pdf/1611.07865.pdf)
+6. Ulyanov, Dmitry and Lebedev, Vadim, et al. **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**. arXiv preprint arXiv:1603.03417(2016). [pdf](http://arxiv.org/abs/1603.03417)
   
   
 ## 6 RNN / Sequence-to-Sequence Model  
