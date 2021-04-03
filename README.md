@@ -118,7 +118,7 @@
 1. Bengio, Yoshua et. al. **A Neural Probabilistic Model** JMLR (2003). [pdf](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) 
 2. Graves, Alex. **Generating sequences with recurrent neural networks**. arXiv preprint arXiv:1308.0850 (2013). (LSTM, very nice generating result, show the power of RNN) [pdf](http://arxiv.org/pdf/1308.0850)
 3. Mikolov, et al. **Distributed representations of words and phrases and their compositionality**. NIPS(2013) [pdf](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
-4. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. **Sequence to sequence learning with neural networks**. Advances in neural information processing systems. 2014.[pdf](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) **(Outstanding Work)**
+4. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. **Sequence to sequence learning with neural networks**. Advances in neural information processing systems. 2014.[pdf](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 5. Bahdanau, Dzmitry, KyungHyun Cho, and Yoshua Bengio. **Neural Machine Translation by Jointly Learning to Align and Translate**. arXiv preprint arXiv:1409.0473 (2014). [pdf](https://arxiv.org/pdf/1409.0473v7.pdf)
 
 
