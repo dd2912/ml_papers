@@ -152,20 +152,19 @@
 
 ## 10 Reinforcement Learning
 
-**\[10.0\]** Mnih, Volodymyr, et al. **Playing atari with deep reinforcement learning**. arXiv preprint arXiv:1312.5602 (2013). [\[](http://arxiv.org/pdf/1312.5602.pdf)[pdf\]](http://arxiv.org/pdf/1312.5602.pdf)) **(First Paper named deep reinforcement learning)** \[JRC 4/15/20\]
-**\[10.1\]** Silver, David, et al. **Mastering the game of Go with deep neural networks and tree search**. Nature 529.7587 (2016): 484-489. [\[](http://willamette.edu/~levenick/cs448/goNature.pdf)[pdf\]](https://www.nature.com/articles/nature16961.pdf) **(AlphaGo)** \[JRC 4/15/20\]
-**\[10.2\]** Silver, David, et al. **Mastering the game of Go without Human Knowledge**. Nature 550, 354–359 (2017) [\[](http://willamette.edu/~levenick/cs448/goNature.pdf)[pdf\]](http://augmentingcognition.com/assets/Silver2017a.pdf) \[JRC 4/15/20\]
-**\[10.3\]** Silver, David, et al. **Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**. arXiv 1712:01815 (2017) [\[](http://willamette.edu/~levenick/cs448/goNature.pdf)[pdf\]](https://arxiv.org/pdf/1712.01815.pdf) \[JRC 4/15/20\]
-**\[10.4\]** OpenAI. **Learning Dexterous In-Hand Manipulation**. arXiv. [\[](http://willamette.edu/~levenick/cs448/goNature.pdf)[pdf\]](https://arxiv.org/pdf/1808.00177.pdf) \[JRC 4/15/20\]
+1. Mnih, Volodymyr, et al. **Playing atari with deep reinforcement learning**. (2013). [pdf](http://arxiv.org/pdf/1312.5602.pdf)
+2. Silver, David, et al. **Mastering the game of Go with deep neural networks and tree search**. (2016) [pdf](https://www.nature.com/articles/nature16961.pdf)
+3. Silver, David, et al. **Mastering the game of Go without Human Knowledge**. (2017) [pdf](http://augmentingcognition.com/assets/Silver2017a.pdf)
+4. Silver, David, et al. **Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**. (2017) [pdf](https://arxiv.org/pdf/1712.01815.pdf)
+5. OpenAI. **Learning Dexterous In-Hand Manipulation**. [pdf](https://arxiv.org/pdf/1808.00177.pdf)
 
 **Previous Papers**
-️️️️️ ️️️️
-**\[10.1\]** Mnih, Volodymyr, et al. **Human-level control through deep reinforcement learning**. Nature 518.7540 (2015): 529-533. [\[](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)[pdf\]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) **(****Milestone)** ️️️️️
-**\[10.2\]** Wang, Ziyu, Nando de Freitas, and Marc Lanctot. **Dueling network architectures for deep reinforcement learning**. arXiv preprint arXiv:1511.06581 (2015). [\[](http://arxiv.org/pdf/1511.06581)[pdf\]](http://arxiv.org/pdf/1511.06581) **(****ICLR best paper,great idea)** ️️️️
-**\[10.3\]** Mnih, Volodymyr, et al. **Asynchronous methods for deep reinforcement learning**. arXiv preprint arXiv:1602.01783 (2016). [\[](http://arxiv.org/pdf/1602.01783)[pdf\]](http://arxiv.org/pdf/1602.01783) **(****State-of-the-art method)** ️️️️️
-**\[10.4\]** Lillicrap, Timothy P., et al. **Continuous control with deep reinforcement learning**. arXiv preprint arXiv:1509.02971 (2015). [\[](http://arxiv.org/pdf/1509.02971)[pdf\]](http://arxiv.org/pdf/1509.02971) **(****DDPG)** ️️️️
-**\[10.5\]** Gu, Shixiang, et al. **Continuous Deep Q-Learning with Model-based Acceleration**. arXiv preprint arXiv:1603.00748 (2016). [\[](http://arxiv.org/pdf/1603.00748)[pdf\]](http://arxiv.org/pdf/1603.00748) **(****NAF)** ️️️️
-**\[10.6\]** Schulman, John, et al. **Trust region policy optimization**. CoRR, abs/1502.05477 (2015). [\[](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf) **(****TRPO)** ️️️️
+1. Mnih, Volodymyr, et al. **Human-level control through deep reinforcement learning**. (2015) [pdf](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+2. Wang, Ziyu, Nando de Freitas, and Marc Lanctot. **Dueling network architectures for deep reinforcement learning**. (2015). [pdf](http://arxiv.org/pdf/1511.06581)
+3. Mnih, Volodymyr, et al. **Asynchronous methods for deep reinforcement learning**. (2016). [pdf](http://arxiv.org/pdf/1602.01783)
+4. Lillicrap, Timothy P., et al. **Continuous control with deep reinforcement learning**. (2015). [pdf](http://arxiv.org/pdf/1509.02971)
+5. Gu, Shixiang, et al. **Continuous Deep Q-Learning with Model-based Acceleration**. (2016). [pdf](http://arxiv.org/pdf/1603.00748)
+6. Schulman, John, et al. **Trust region policy optimization**. CoRR, abs/1502.05477 (2015). [pdf](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
 ## 10 Unsupervised Learning / Deep Generative Model
 
