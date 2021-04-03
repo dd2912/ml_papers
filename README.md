@@ -123,20 +123,19 @@
   
 ## 7 NLP (Natural Language Processing)
   
-**\[7.0\]** Ashish Vaswani, et al. **Attention is All you Need**. NIPS (2017) [\[](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf)[pdf\]](https://arxiv.org/pdf/1706.03762.pdf) \[KX 3/25/20\]  
-**\[7.1\]** Matthew Peters, et al. **“Deep Contexualized Word Representations**. NAACL-HLT(2018) [\[](https://arxiv.org/abs/1506.07285)[pdf\]](https://arxiv.org/pdf/1802.05365.pdf) **(ELMo)** \[KX 3/25/20\]  
-**\[7.2\]** Jeremy Howard, et al.  **Universal Language Model Fine-Tuning for Text Classification** ACL (2018) [\[](https://arxiv.org/abs/1508.06615)[pdf\]](https://arxiv.org/pdf/1801.06146.pdf) \[KX 3/25/20\]  
-**\[7.3\]** Jacob Devlin, et al. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** NAACL-HLT(2019) [\[](https://arxiv.org/abs/1502.05698)[pdf\]](https://arxiv.org/pdf/1810.04805.pdf) **(Milestone, Best Paper)** \[KX 3/25/20\]  
-**\[7.4\]** Victor Sanh, et al. **DistilBERT, a distilled version of BERT**. arXiv preprint arXiv:1910.01108(2019) [\[](https://arxiv.org/abs/1506.03340)[pdf\]](https://arxiv.org/pdf/1910.01108.pdf) \[KX 3/25/20\]  
-  
-  
+1. Ashish Vaswani, et al. **Attention is All you Need**. NIPS (2017) [pdf](https://arxiv.org/pdf/1706.03762.pdf)
+2. Matthew Peters, et al. **“Deep Contexualized Word Representations**. [pdf](https://arxiv.org/pdf/1802.05365.pdf)
+3. Jeremy Howard, et al.  **Universal Language Model Fine-Tuning for Text Classification** ACL (2018) [pdf](https://arxiv.org/pdf/1801.06146.pdf)
+4. Jacob Devlin, et al. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** NAACL-HLT(2019) [pdf](https://arxiv.org/pdf/1810.04805.pdf)
+5. Victor Sanh, et al. **DistilBERT, a distilled version of BERT**. arXiv preprint arXiv:1910.01108(2019) [pdf](https://arxiv.org/pdf/1910.01108.pdf)
+
 ## 8 Machine Translation
   
-**\[8.0\]** Lee, et al. **Fully Character-Level Neural Machine Translation without Explicit Segmentation**. In arXiv preprint arXiv:1610.03017 (2016) [\[](https://arxiv.org/pdf/1610.03017.pdf)[pdf\]](https://arxiv.org/pdf/1610.03017.pdf) \[SM 4/1/20\]  
-**\[8.1\]** Wu, Schuster, Chen, Le, et al. **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**. In arXiv preprint arXiv:1609.08144v2 (2016) [\[](https://arxiv.org/pdf/1609.08144v2.pdf)[pdf\]](https://arxiv.org/pdf/1609.08144v2.pdf) \[SM 4/1/20\]  
-**\[8.2\]** Jonas Gehring, et al. **Convolutional Sequence to Sequence Learning**.  arXiv:1705.03122 (2017). [\[](http://arxiv.org/pdf/1410.8206)[pdf\]](https://arxiv.org/pdf/1705.03122.pdf) \[SM 4/1/20\]  
-**\[8.3\]** Lample, et al. **Phrase-Based & Neural Unsupervised Machine Translation**. arXiv:1804.07755. (2018) [\[](https://arxiv.org/pdf/1508.07909.pdf)[pdf\]](https://arxiv.org/pdf/1804.07755.pdf) \[SM 4/1/20\]  
-**\[8.4\]** Ye Jia, et al. **Direct Speech-to-Speech Translation with a Sequence-to-Sequence Model**. arXiv preprint arXiv:1904.06037 (2019). [\[](http://arxiv.org/pdf/1508.04025)[pdf\]](https://arxiv.org/pdf/1904.06037.pdf) \[SM 4/1/20\]  
+1. Lee, et al. **Fully Character-Level Neural Machine Translation without Explicit Segmentation**. In arXiv preprint arXiv:1610.03017 (2016) [pdf](https://arxiv.org/pdf/1610.03017.pdf)
+2. Wu, Schuster, Chen, Le, et al. **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**. In arXiv preprint arXiv:1609.08144v2 [pdf](https://arxiv.org/pdf/1609.08144v2.pdf)
+3. Jonas Gehring, et al. **Convolutional Sequence to Sequence Learning**.  arXiv:1705.03122 (2017). [pdf](https://arxiv.org/pdf/1705.03122.pdf)  
+4. Lample, et al. **Phrase-Based & Neural Unsupervised Machine Translation**. arXiv:1804.07755. (2018) [pdf](https://arxiv.org/pdf/1804.07755.pdf) 
+5. Ye Jia, et al. **Direct Speech-to-Speech Translation with a Sequence-to-Sequence Model**. arXiv preprint arXiv:1904.06037 (2019). [pdf](https://arxiv.org/pdf/1904.06037.pdf) 
   
 **9 Applications of Sequence-to-Sequence Models**  
   
