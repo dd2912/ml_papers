@@ -120,22 +120,23 @@
 3. Mikolov, et al. **Distributed representations of words and phrases and their compositionality**. NIPS(2013) [pdf](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
 4. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. **Sequence to sequence learning with neural networks**. Advances in neural information processing systems. 2014.[pdf](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) **(Outstanding Work)**
 5. Bahdanau, Dzmitry, KyungHyun Cho, and Yoshua Bengio. **Neural Machine Translation by Jointly Learning to Align and Translate**. arXiv preprint arXiv:1409.0473 (2014). [pdf](https://arxiv.org/pdf/1409.0473v7.pdf)
-  
+
+
 ## 7 NLP (Natural Language Processing)
-  
+
 1. Ashish Vaswani, et al. **Attention is All you Need**. NIPS (2017) [pdf](https://arxiv.org/pdf/1706.03762.pdf)
-2. Matthew Peters, et al. **“Deep Contexualized Word Representations**. [pdf](https://arxiv.org/pdf/1802.05365.pdf)
+2. Matthew Peters, et al. **Deep Contexualized Word Representations**. [pdf](https://arxiv.org/pdf/1802.05365.pdf)
 3. Jeremy Howard, et al.  **Universal Language Model Fine-Tuning for Text Classification** ACL (2018) [pdf](https://arxiv.org/pdf/1801.06146.pdf)
-4. Jacob Devlin, et al. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** NAACL-HLT(2019) [pdf](https://arxiv.org/pdf/1810.04805.pdf)
+4. Jacob Devlin, et al. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2019) [pdf](https://arxiv.org/pdf/1810.04805.pdf)
 5. Victor Sanh, et al. **DistilBERT, a distilled version of BERT**. arXiv preprint arXiv:1910.01108(2019) [pdf](https://arxiv.org/pdf/1910.01108.pdf)
 
+
 ## 8 Machine Translation
-  
-1. Lee, et al. **Fully Character-Level Neural Machine Translation without Explicit Segmentation**. In arXiv preprint arXiv:1610.03017 (2016) [pdf](https://arxiv.org/pdf/1610.03017.pdf)
-2. Wu, Schuster, Chen, Le, et al. **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**. In arXiv preprint arXiv:1609.08144v2 [pdf](https://arxiv.org/pdf/1609.08144v2.pdf)
-3. Jonas Gehring, et al. **Convolutional Sequence to Sequence Learning**.  arXiv:1705.03122 (2017). [pdf](https://arxiv.org/pdf/1705.03122.pdf)  
-4. Lample, et al. **Phrase-Based & Neural Unsupervised Machine Translation**. arXiv:1804.07755. (2018) [pdf](https://arxiv.org/pdf/1804.07755.pdf) 
-5. Ye Jia, et al. **Direct Speech-to-Speech Translation with a Sequence-to-Sequence Model**. arXiv preprint arXiv:1904.06037 (2019). [pdf](https://arxiv.org/pdf/1904.06037.pdf) 
+1. Lee, et al. **Fully Character-Level Neural Machine Translation without Explicit Segmentation**. (2016) [pdf](https://arxiv.org/pdf/1610.03017.pdf)
+2. Wu, Schuster, Chen, Le, et al. **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**. [pdf](https://arxiv.org/pdf/1609.08144v2.pdf)
+3. Jonas Gehring, et al. **Convolutional Sequence to Sequence Learning**. (2017). [pdf](https://arxiv.org/pdf/1705.03122.pdf)
+4. Lample, et al. **Phrase-Based & Neural Unsupervised Machine Translation**. (2018) [pdf](https://arxiv.org/pdf/1804.07755.pdf)
+5. Ye Jia, et al. **Direct Speech-to-Speech Translation with a Sequence-to-Sequence Model**. (2019). [pdf](https://arxiv.org/pdf/1904.06037.pdf)
   
 **9 Applications of Sequence-to-Sequence Models**  
   
