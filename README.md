@@ -178,19 +178,19 @@
 
 ## 12 Image Captioning**
 
-**\[9.0\]** Farhadi,Ali,etal. **Every picture tells a story: Generating sentences from images**. In Computer VisionECCV 2010. Springer Berlin Heidelberg:15-29, 2010. [\[](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)[pdf\]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf) ️️️
-**\[9.1\]** Kulkarni, Girish, et al. **Baby talk: Understanding and generating image descriptions**. In Proceedings of the 24th CVPR, 2011. [\[](http://tamaraberg.com/papers/generation_cvpr11.pdf)[pdf\]](http://tamaraberg.com/papers/generation_cvpr11.pdf)️️️️
-**\[9.2\]** Vinyals, Oriol, et al. **Show and tell: A neural image caption generator**. In arXiv preprint arXiv:1411.4555, 2014. [\[](https://arxiv.org/pdf/1411.4555.pdf)[pdf\]](https://arxiv.org/pdf/1411.4555.pdf)️️️
-**\[9.3\]** Donahue, Jeff, et al. **Long-term recurrent convolutional networks for visual recognition and description**. In arXiv preprint arXiv:1411.4389 ,2014. [\[](https://arxiv.org/pdf/1411.4389.pdf)[pdf\]](https://arxiv.org/pdf/1411.4389.pdf)
-**\[9.4\]** Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions**. In arXiv preprint arXiv:1412.2306, 2014. [\[](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)[pdf\]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)️️️️️
-**\[9.5\]** Karpathy, Andrej, Armand Joulin, and Fei Fei F. Li. **Deep fragment embeddings for bidirectional image sentence mapping**. In Advances in neural information processing systems, 2014. [\[](https://arxiv.org/pdf/1406.5679v1.pdf)[pdf\]](https://arxiv.org/pdf/1406.5679v1.pdf)️️️️
-**\[9.6\]** Fang, Hao, et al. **From captions to visual concepts and back**. In arXiv preprint arXiv:1411.4952, 2014. [\[](https://arxiv.org/pdf/1411.4952v3.pdf)[pdf\]](https://arxiv.org/pdf/1411.4952v3.pdf)️️️️️
-**\[9.7\]** Chen, Xinlei, and C. Lawrence Zitnick. **Learning a recurrent visual representation for image caption generation**. In arXiv preprint arXiv:1411.5654, 2014. [\[](https://arxiv.org/pdf/1411.5654v1.pdf)[pdf\]](https://arxiv.org/pdf/1411.5654v1.pdf)️️️️
-**\[9.8\]** Mao, Junhua, et al. **Deep captioning with multimodal recurrent neural networks** **(****m-rnn)**. In arXiv preprint arXiv:1412.6632, 2014. [\[](https://arxiv.org/pdf/1412.6632v5.pdf)[pdf\]](https://arxiv.org/pdf/1412.6632v5.pdf)️️️
-**\[9.9\]** Xu, Kelvin, et al. **Show, attend and tell: Neural image caption generation with visual attention**. In arXiv preprint arXiv:1502.03044, 2015. [\[](https://arxiv.org/pdf/1502.03044v3.pdf)[pdf\]](https://arxiv.org/pdf/1502.03044v3.pdf)️️️
+1. Farhadi,Ali,etal. **Every picture tells a story: Generating sentences from images**. 2010. [pdf](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf) ️️️
+2. Kulkarni, Girish, et al. **Baby talk: Understanding and generating image descriptions**. 2011. [pdf](http://tamaraberg.com/papers/generation_cvpr11.pdf)️️️️
+3. Vinyals, Oriol, et al. **Show and tell: A neural image caption generator**. 2014. [pdf](https://arxiv.org/pdf/1411.4555.pdf)️️️
+4. Donahue, Jeff, et al. **Long-term recurrent convolutional networks for visual recognition and description**. [pdf](https://arxiv.org/pdf/1411.4389.pdf)
+5. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions**. 2014. [pdf](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)️️️️️
+6. Karpathy, Andrej, Armand Joulin, and Fei Fei F. Li. **Deep fragment embeddings for bidirectional image sentence mapping**. 2014. [pdf](https://arxiv.org/pdf/1406.5679v1.pdf)️️️️
+7. Fang, Hao, et al. **From captions to visual concepts and back**. 2014. [pdf](https://arxiv.org/pdf/1411.4952v3.pdf)️️️️️
+8. Chen, Xinlei, and C. Lawrence Zitnick. **Learning a recurrent visual representation for image caption generation**. 2014. [pdf](https://arxiv.org/pdf/1411.5654v1.pdf)️️️️
+9. Mao, Junhua, et al. **Deep captioning with multimodal recurrent neural networks** 2014. [pdf](https://arxiv.org/pdf/1412.6632v5.pdf)️️️
+10. Xu, Kelvin, et al. **Show, attend and tell: Neural image caption generation with visual attention**. 2015. [pdf](https://arxiv.org/pdf/1502.03044v3.pdf)️️️
 
 
-## 11 Speech Recognition
+## 13 Speech Recognition
 
 **\[10.0\]** Hinton, Geoffrey, et al. **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**. IEEE Signal Processing Magazine 29.6 (2012): 82-97. [\[](http://cs224d.stanford.edu/papers/maas_paper.pdf)[pdf\]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(****DeepNets show progress in speech recognition.)**️️️️
 **\[10.1\]** Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. **Speech recognition with deep recurrent neural networks**. 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [\[](http://arxiv.org/pdf/1303.5778.pdf)[pdf\]](http://arxiv.org/pdf/1303.5778.pdf) **(RNN)**️️️
@@ -199,7 +199,7 @@
 **\[10.4\]** Amodei, Dario, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin**. arXiv preprint arXiv:1512.02595 (2015). [\[](https://arxiv.org/pdf/1512.02595.pdf)[pdf\]](https://arxiv.org/pdf/1512.02595.pdf) **(****Baidu Speech Recognition System)** ️️️️
 **\[10.5\]** W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig **Achieving Human Parity in Conversational Speech Recognition**. arXiv preprint arXiv:1610.05256 (2016). [\[](https://arxiv.org/pdf/1610.05256v1)[pdf\]](https://arxiv.org/pdf/1610.05256v1) **(****Microsoft Speech Recognition System)** ️️
 
-## 12 Deep Learning Optimization and More
+## 14 Deep Learning Optimization and More
 
 **\[12.0\]** Hinton, Geoffrey E., et al. **Improving neural networks by preventing co-adaptation of feature detectors**. arXiv preprint arXiv:1207.0580 (2012). [\[](https://arxiv.org/pdf/1207.0580.pdf)[pdf\]](https://arxiv.org/pdf/1207.0580.pdf) **(****Dropout)** ️️️
 **\[12.1\]** Srivastava, Nitish, et al. **Dropout: a simple way to prevent neural networks from overfitting**. Journal of Machine Learning Research 15.1 (2014): 1929-1958. [\[](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)[pdf\]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) ️️️
@@ -215,7 +215,7 @@
 **\[12.11\]** Han, Song, Huizi Mao, and William J. Dally. **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. CoRR, abs/1510.00149 2 (2015). [\[](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)[pdf\]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) **(****ICLR best paper, new direction to make NN running fast, DeePhi Tech Startup)** ️️️️️
 **\[12.12\]** Iandola, Forrest N., et al. **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. arXiv preprint arXiv:1602.07360 (2016). [\[](http://arxiv.org/pdf/1602.07360)[pdf\]](http://arxiv.org/pdf/1602.07360) **(****Also a new direction to optimize NN,DeePhi Tech Startup)** ️️️️
 
-## 14 Robotics
+## 15 Robotics
 
 ****
 **\[14.0\]** Koutník, Jan, et al. **Evolving large-scale neural networks for vision-based reinforcement learning**. Proceedings of the 15th annual conference on Genetic and evolutionary computation. ACM, 2013. [\[](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf)[pdf\]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) ️️️
@@ -228,7 +228,7 @@
 **\[14.7\]** A Rusu, M Vecerik, Thomas Rothörl, N Heess, R Pascanu, R Hadsell.**Sim-to-Real Robot Learning from Pixels with Progressive Nets**. arXiv preprint arXiv:1610.04286 (2016). [\[](https://arxiv.org/pdf/1610.04286.pdf)[pdf\]](https://arxiv.org/pdf/1610.04286.pdf) ️️️️
 **\[14.8\]** Mirowski, Piotr, et al. **Learning to navigate in complex environments**. arXiv preprint arXiv:1611.03673 (2016). [\[](https://arxiv.org/pdf/1611.03673)[pdf\]](https://arxiv.org/pdf/1611.03673)️️️️
 
-## 15 Deep Transfer Learning / Lifelong Learning / especially for RL
+## 16 Deep Transfer Learning / Lifelong Learning / especially for RL
 
 **\[15.0\]** Bengio, Yoshua. **Deep Learning of Representations for Unsupervised and Transfer Learning**. ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [\[](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(****A Tutorial)** ️️️
 **\[15.1\]** Silver, Daniel L., Qiang Yang, and Lianghao Li. **Lifelong Machine Learning Systems: Beyond Learning Algorithms**. AAAI Spring Symposium: Lifelong Machine Learning. 2013. [\[](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf)[pdf\]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf) **(****A brief discussion about lifelong learning)**  ️️️
@@ -237,7 +237,7 @@
 **\[15.4\]** Parisotto, Emilio, Jimmy Lei Ba, and Ruslan Salakhutdinov. **Actor-mimic: Deep multitask and transfer reinforcement learning**. arXiv preprint arXiv:1511.06342 (2015). [\[](http://arxiv.org/pdf/1511.06342)[pdf\]](http://arxiv.org/pdf/1511.06342) **(****RL domain)** ️️️
 **\[15.5\]** Rusu, Andrei A., et al. **Progressive neural networks**. arXiv preprint arXiv:1606.04671 (2016). [\[](https://arxiv.org/pdf/1606.04671)[pdf\]](https://arxiv.org/pdf/1606.04671) **(****Outstanding Work, A novel idea)** ️️️️️
 
-## 16 One Shot Deep Learning
+## 17 One Shot Deep Learning
 
 **\[16.0\]** Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum. **Human-level concept learning through probabilistic program induction**. Science 350.6266 (2015): 1332-1338. [\[](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf)[pdf\]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) **(****No Deep Learning, but worth reading)**️️️️️
 **\[16.1\]** Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. **Siamese Neural Networks for One-shot Image Recognition**.(2015) [\[](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf)[pdf\]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) ️️️
@@ -245,7 +245,7 @@
 **\[16.3\]** Vinyals, Oriol, et al. **Matching Networks for One Shot Learning**. arXiv preprint arXiv:1606.04080 (2016). [\[](https://arxiv.org/pdf/1606.04080)[pdf\]](https://arxiv.org/pdf/1606.04080)️️️
 **\[16.4\]** Hariharan, Bharath, and Ross Girshick. **Low-shot visual object recognition**. arXiv preprint arXiv:1606.02819 (2016). [\[](http://arxiv.org/pdf/1606.02819)[pdf\]](http://arxiv.org/pdf/1606.02819) **(****A step to large data)** ️️️️
 
-## 17 Neural Turing Machine
+## 18 Neural Turing Machine
 
 **\[17.0\]** Graves, Alex, Greg Wayne, and Ivo Danihelka. **Neural turing machines**. arXiv preprint arXiv:1410.5401 (2014). [\[](http://arxiv.org/pdf/1410.5401.pdf)[pdf\]](http://arxiv.org/pdf/1410.5401.pdf) **(Basic Prototype of Future Computer)** ️️️️️
 **\[17.1\]** Zaremba, Wojciech, and Ilya Sutskever. **Reinforcement learning neural Turing machines**. arXiv preprint arXiv:1505.00521 362 (2015). [\[](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf)[pdf\]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) ️️️
