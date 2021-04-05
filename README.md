@@ -192,12 +192,12 @@
 
 ## 13 Speech Recognition
 
-**\[10.0\]** Hinton, Geoffrey, et al. **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**. IEEE Signal Processing Magazine 29.6 (2012): 82-97. [\[](http://cs224d.stanford.edu/papers/maas_paper.pdf)[pdf\]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(****DeepNets show progress in speech recognition.)**️️️️
-**\[10.1\]** Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. **Speech recognition with deep recurrent neural networks**. 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [\[](http://arxiv.org/pdf/1303.5778.pdf)[pdf\]](http://arxiv.org/pdf/1303.5778.pdf) **(RNN)**️️️
-**\[10.2\]** Graves, Alex, and Navdeep Jaitly. **Towards End-To-End Speech Recognition with Recurrent Neural Networks**. ICML. Vol. 14. 2014. [\[](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)️️️
-**\[10.3\]** Sak, Haşim, et al. **Fast and accurate recurrent neural network acoustic models for speech recognition**. arXiv preprint arXiv:1507.06947 (2015). [\[](http://arxiv.org/pdf/1507.06947)[pdf\]](http://arxiv.org/pdf/1507.06947) **(****Google Speech Recognition System)** ️️️
-**\[10.4\]** Amodei, Dario, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin**. arXiv preprint arXiv:1512.02595 (2015). [\[](https://arxiv.org/pdf/1512.02595.pdf)[pdf\]](https://arxiv.org/pdf/1512.02595.pdf) **(****Baidu Speech Recognition System)** ️️️️
-**\[10.5\]** W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig **Achieving Human Parity in Conversational Speech Recognition**. arXiv preprint arXiv:1610.05256 (2016). [\[](https://arxiv.org/pdf/1610.05256v1)[pdf\]](https://arxiv.org/pdf/1610.05256v1) **(****Microsoft Speech Recognition System)** ️️
+1. Hinton, Geoffrey, et al. **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**. (2012) [pdf](http://cs224d.stanford.edu/papers/maas_paper.pdf)
+2. Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. **Speech recognition with deep recurrent neural networks**. 2013 [pdf](http://arxiv.org/pdf/1303.5778.pdf)
+3. Graves, Alex, and Navdeep Jaitly. **Towards End-To-End Speech Recognition with Recurrent Neural Networks**. 2014 [pdf](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)️️️
+4. Sak, Haşim, et al. **Fast and accurate recurrent neural network acoustic models for speech recognition**. (2015).  [pdf](http://arxiv.org/pdf/1507.06947)
+5. Amodei, Dario, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin**. (2015). [pdf](https://arxiv.org/pdf/1512.02595.pdf)
+6. W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig **Achieving Human Parity in Conversational Speech Recognition**. (2016) [pdf](https://arxiv.org/pdf/1610.05256v1)
 
 ## 14 Deep Learning Optimization and More
 
