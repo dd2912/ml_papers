@@ -201,19 +201,19 @@
 
 ## 14 Deep Learning Optimization and More
 
-**\[12.0\]** Hinton, Geoffrey E., et al. **Improving neural networks by preventing co-adaptation of feature detectors**. arXiv preprint arXiv:1207.0580 (2012). [\[](https://arxiv.org/pdf/1207.0580.pdf)[pdf\]](https://arxiv.org/pdf/1207.0580.pdf) **(****Dropout)** ️️️
-**\[12.1\]** Srivastava, Nitish, et al. **Dropout: a simple way to prevent neural networks from overfitting**. Journal of Machine Learning Research 15.1 (2014): 1929-1958. [\[](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf)[pdf\]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) ️️️
-**\[12.2\]** Ioffe, Sergey, and Christian Szegedy. **Batch normalization: Accelerating deep network training by reducing internal covariate shift**. arXiv preprint arXiv:1502.03167 (2015). [\[](http://arxiv.org/pdf/1502.03167)[pdf\]](http://arxiv.org/pdf/1502.03167) **(****An outstanding Work in 2015)** ️️️️
-**\[12.3\]** Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. **Layer normalization**. arXiv preprint arXiv:1607.06450 (2016). [\[](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)[pdf\]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote) **(****Update of Batch Normalization)** ️
-**\[12.4\]** Courbariaux, Matthieu, et al. **Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to+ 1 or−1**. [\[](https://pdfs.semanticscholar.org/f832/b16cb367802609d91d400085eb87d630212a.pdf)[pdf\]](https://pdfs.semanticscholar.org/f832/b16cb367802609d91d400085eb87d630212a.pdf) **(****New Model,Fast)**  ️️️
-**\[12.5\]** Jaderberg, Max, et al. **Decoupled neural interfaces using synthetic gradients**. arXiv preprint arXiv:1608.05343 (2016). [\[](https://arxiv.org/pdf/1608.05343)[pdf\]](https://arxiv.org/pdf/1608.05343) **(****Innovation of Training Method,Amazing Work)** ️️
-**\[12.6\]** Chen, Tianqi, Ian Goodfellow, and Jonathon Shlens. Net2net: Accelerating learning via knowledge transfer. arXiv preprint arXiv:1511.05641 (2015). [\[](https://arxiv.org/abs/1511.05641)[pdf\]](https://arxiv.org/abs/1511.05641) **(****Modify previously trained network to reduce training epochs)** ️️️
-**\[12.7\]** Wei, Tao, et al. Network Morphism. arXiv preprint arXiv:1603.01670 (2016). [\[](https://arxiv.org/abs/1603.01670)[pdf\]](https://arxiv.org/abs/1603.01670) **(****Modify previously trained network to reduce training epochs)** ️️️
-**\[12.8\]** Sutskever, Ilya, et al. **On the importance of initialization and momentum in deep learning**. ICML (3) 28 (2013): 1139-1147. [\[](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)[pdf\]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf) **(****Momentum optimizer)** ️️
-**\[12.9\]** Kingma, Diederik, and Jimmy Ba. **Adam: A method for stochastic optimization**. arXiv preprint arXiv:1412.6980 (2014). [\[](http://arxiv.org/pdf/1412.6980)[pdf\]](http://arxiv.org/pdf/1412.6980) **(****Maybe used most often currently)** ️
-**\[12.10\]** Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent**. arXiv preprint arXiv:1606.04474 (2016). [\[](https://arxiv.org/pdf/1606.04474)[pdf\]](https://arxiv.org/pdf/1606.04474) **(****Neural Optimizer, Amazing Work)** ️️️️️
-**\[12.11\]** Han, Song, Huizi Mao, and William J. Dally. **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. CoRR, abs/1510.00149 2 (2015). [\[](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)[pdf\]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf) **(****ICLR best paper, new direction to make NN running fast, DeePhi Tech Startup)** ️️️️️
-**\[12.12\]** Iandola, Forrest N., et al. **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. arXiv preprint arXiv:1602.07360 (2016). [\[](http://arxiv.org/pdf/1602.07360)[pdf\]](http://arxiv.org/pdf/1602.07360) **(****Also a new direction to optimize NN,DeePhi Tech Startup)** ️️️️
+1. Hinton, Geoffrey E., et al. **Improving neural networks by preventing co-adaptation of feature detectors**. [pdf](https://arxiv.org/pdf/1207.0580.pdf)
+2. Srivastava, Nitish, et al. **Dropout: a simple way to prevent neural networks from overfitting**. [pdf](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+3. Ioffe, Sergey, and Christian Szegedy. **Batch normalization: Accelerating deep network training by reducing internal covariate shift**. [pdf](http://arxiv.org/pdf/1502.03167)
+4. Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. **Layer normalization**. [pdf](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
+5. Courbariaux, Matthieu, et al. **Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to+ 1 or−1**. [pdf](https://pdfs.semanticscholar.org/f832/b16cb367802609d91d400085eb87d630212a.pdf)
+6. Jaderberg, Max, et al. **Decoupled neural interfaces using synthetic gradients**.[pdf](https://arxiv.org/pdf/1608.05343)
+7. Chen, Tianqi, Ian Goodfellow, and Jonathon Shlens. Net2net: Accelerating learning via knowledge transfer. [pdf](https://arxiv.org/abs/1511.05641)
+8. Wei, Tao, et al. Network Morphism. arXiv preprint arXiv:1603.01670 (2016). [pdf](https://arxiv.org/abs/1603.01670)
+9. Sutskever, Ilya, et al. **On the importance of initialization and momentum in deep learning**. [pdf](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+10. Kingma, Diederik, and Jimmy Ba. **Adam: A method for stochastic optimization**. [pdf](http://arxiv.org/pdf/1412.6980)
+11. Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent**. [pdf](https://arxiv.org/pdf/1606.04474)
+12. Han, Song, Huizi Mao, and William J. Dally. **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. [pdf](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)
+13. Iandola, Forrest N., et al. **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. [pdf](http://arxiv.org/pdf/1602.07360) ️️️️
 
 ## 15 Robotics
 
